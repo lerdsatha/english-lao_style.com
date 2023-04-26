@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "poppins",sans-serif;}
+    body {
+        background-color: rgb(247, 125, 125);
+        min-height: 90vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .wraper{
+        
+    
+        background:rgb(253, 254, 253);
+        
+        
+        border-radius: 10px;
+        padding: 50px 30px 25px;
+    }
+    .wraper header{
+        font-family: 'Franklin Gothic Medium', ;
+        font-size: 24px;
+        font-weight: 400;
+        text-align: center;
+        margin-bottom: 20px;
+        
+    }
+    
+    
+    
+    .wraper .content  {
+        
+        text-align: center;
+        margin-top: 25px;
+        padding-right: 7px;
+       
+    }
+     .phraword{
+        text-align: center;
+       
+        font-weight: 20px;
+        font-size: 20px;
+        
+    }
+    
+    .phralao{
+        text-align: center;
+        font-family: 'phetsarath ot';
+        font-weight: 10px;
+        font-size: 18px;
+    }
+    .meaning{
+        
+        font-size: 17px;
+        font-weight: 17px;
+        text-align: left;
+        margin-top: 35px;
+        color: brown;
+    }
+    
+    
+    .mean{
+        
+        font-size: 17px;
+        font-weight: 17px;
+        text-align: left;
+        margin-top: 5px;
+    }
+    .mean{
+        border-top-width: 2px solid black;
+    }
+    .example{
+        
+        font-size: 17px;
+        font-weight: 10px;
+        margin-top: 20px;
+        text-align: left;
+        color: brown;
+    
+    }
+    
+    
+    .exam{
+       
+        font-size: 17px;
+        font-weight: 10px;
+        margin-top: 10px;
+        text-align: left;
+    }
+    .area .phabtn{
+       
+        margin-top: 50px;
+        color: rgb(246, 247, 249);
+        text-align: center;
+        
+        background-color: rgb(244, 113, 146);
+        width: 100px;
+        height: 40px;
+        border-radius: 10px;
+        border-color: rgb(49, 50, 50);
+        cursor: pointer;
+      
+    }
+    .area .phabtn:hover{
+       background-color: rgb(192, 17, 174);
+    }
+    
+    
+    
